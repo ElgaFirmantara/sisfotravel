@@ -1,14 +1,16 @@
 <?php 
 
 class Mobil {
-  public $roda;
-  public $merk;
-  public $warna;
+  public int $roda;
+  public string $merk;
+  public string $warna;
 
   public function berbelok() {
 
   }
+  public function hidupkan(){
 
+  }
 
 
 }
