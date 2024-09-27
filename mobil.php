@@ -6,7 +6,10 @@ class Mobil {
   public $warna;
 
   public function berbelok() {
-    return 'Mobil ini berbelok';
+
   }
+
+
+
 }
 ?>
