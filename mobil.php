@@ -1,14 +1,21 @@
 <?php 
 
-class Mobil {
-  public $roda;
-  public $merk;
-  public $warna;
+class Mobil implements Kendaraan {
+  public int $roda;
+  public string $merk;
+  public string $warna;
 
-  public function berbelok() {
+  public function Berbelok() {
 
   }
 
+  public function Maju() {
+
+  }
+
+  public function Mundur(){
+
+  }
 
 
 }
