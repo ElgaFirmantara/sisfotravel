@@ -1,13 +1,12 @@
 <?php 
 
 class Mobil {
-  protected $roda;
-  protected $merk;
-  protected $warna;
+  public $roda;
+  public $merk;
+  public $warna;
 
-  protected function berbelok() {
-    
+  public function berbelok() {
+    return 'Mobil ini berbelok';
   }
-
 }
 ?>
