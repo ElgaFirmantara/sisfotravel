@@ -1,8 +1,13 @@
 <?php 
 
 class Mobil {
-  public $color;
-  public $brand;
+  protected $roda;
+  protected $merk;
+  protected $warna;
+
+  protected function berbelok() {
+    
+  }
 
 }
 ?>
