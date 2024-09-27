@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋SISFO TRAVEL
+  SISFO TRAVEL
 </h1>
 
 <div>
@@ -8,5 +8,4 @@
   <p>Fiky Fehrizar</p>
   <p>Ferry Kurniawan</p>
   <p>Fernando Nestadianto</p>
-  
 </div>
