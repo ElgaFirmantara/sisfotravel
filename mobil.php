@@ -1,6 +1,8 @@
 <?php 
 
+
 class Mobil implements Kendaraan {
+
   public int $roda;
   public string $merk;
   public string $warna;
@@ -8,6 +10,8 @@ class Mobil implements Kendaraan {
   public function Berbelok() {
 
   }
+  public function hidupkan(){
+
 
   public function Maju() {
 
