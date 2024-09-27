@@ -1,8 +1,16 @@
-# sisfotravel
+<h1 align="center">
+  👋SISFO TRAVEL
+</h1>
 
-Develop by
-- Elga Firmantara
-- Dzaky Mubarak
-- Fiky Fehrizar
-- Ferry Kurniawan
-- Fernando Nestadianto
+<div>
+  <p>Develop by</p>
+  <br/>
+  <p>Elga Firmantara</p>
+  <br/>
+  <p>Fiky Fehrizar</p>
+  <br/>
+  <p>Ferry Kurniawan</p>
+  <br/>
+  <p>Fernando Nestadianto</p>
+  
+</div>
